@@ -31,4 +31,6 @@ Para melhor implementação, em produção iremos gerar as imagens em docker ( a
 
 Para monitoramento da solução, iremos utilizar Grafana para acompanhar efetividade dos nossos micro serviços e o Elasticsearch para podermos acompanhar os logs e erros que ocorram em todo o processo.
 
+## Slide
 
+Link da Apresentação: https://www.canva.com/design/DAE2rpsO71A/qwiyVv434KcseB8_oW8FbQ/view?utm_content=DAE2rpsO71A&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
